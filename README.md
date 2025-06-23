@@ -1,2 +1,4 @@
 # diet-keeper
-A diet record tool,based on Web.
+A web-based diet tracking tool,
+
+Store data locally using localStorage.
